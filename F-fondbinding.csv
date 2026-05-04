@@ -1,0 +1,61 @@
+compound_id,protein_name,predicted_binding_score
+L-1,Factor VIII,0.868377146
+L-1,Protein C,0.86755436
+L-3,Factor VIII,0.867356723
+L-2,Factor VIII,0.867329581
+L-4,Factor VIII,0.867325049
+L-3,Protein C,0.866898547
+L-4,Protein C,0.866866873
+L-2,Protein C,0.866227334
+L-1,Factor V,0.850600228
+L-3,Factor V,0.849552445
+L-2,Factor V,0.849523183
+L-4,Factor V,0.849520771
+L-1,Tissue factor pathway inhibitor,0.828188534
+L-3,Tissue factor pathway inhibitor,0.827312217
+L-4,Tissue factor pathway inhibitor,0.827280543
+L-2,Tissue factor pathway inhibitor,0.826756066
+L-1,Factor XI,0.813362937
+L-3,Factor XI,0.812315146
+L-4,Factor XI,0.812283473
+L-2,Factor XI,0.812279923
+L-1,Factor Xa,0.805197379
+L-3,Factor Xa,0.804168218
+L-4,Factor Xa,0.804136546
+L-2,Factor Xa,0.804095342
+L-1,Protein C inhibitor,0.798910192
+L-3,Protein C inhibitor,0.798116377
+L-4,Protein C inhibitor,0.798084703
+L-2,Protein C inhibitor,0.797605381
+L-1,Antithrombin III,0.791756926
+L-3,Antithrombin III,0.791112308
+L-4,Antithrombin III,0.791080634
+L-2,Antithrombin III,0.79056624
+L-1,Tissue plasminogen activator,0.787477817
+L-3,Tissue plasminogen activator,0.786917421
+L-4,Tissue plasminogen activator,0.786885748
+L-2,Tissue plasminogen activator,0.786233385
+L-1,Thrombin / Prothrombin,0.777004983
+L-3,Thrombin / Prothrombin,0.775908622
+L-4,Thrombin / Prothrombin,0.77587695
+L-2,Thrombin / Prothrombin,0.775260868
+L-1,Factor VII,0.773388263
+L-3,Factor VII,0.772361496
+L-2,Factor VII,0.772333017
+L-4,Factor VII,0.772329822
+L-1,Protein S,0.769695999
+L-3,Protein S,0.768860383
+L-4,Protein S,0.768828709
+L-2,Protein S,0.768213429
+L-1,Factor XII,0.767849409
+L-3,Factor XII,0.766810745
+L-2,Factor XII,0.766798836
+L-4,Factor XII,0.766779073
+L-1,Fibrinogen alpha chain,0.760530551
+L-2,Fibrinogen alpha chain,0.759226303
+L-3,Fibrinogen alpha chain,0.758829588
+L-4,Fibrinogen alpha chain,0.758797914
+L-1,Factor IX,0.744356997
+L-3,Factor IX,0.744021627
+L-4,Factor IX,0.743989953
+L-2,Factor IX,0.743580471
